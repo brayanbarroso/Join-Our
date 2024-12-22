@@ -24,7 +24,7 @@ body {
 header {
   display: flex;
   justify-content: center;
-  margin-block: 80px 40px;
+  margin-block: 80px 32px;
 }
 
 main {
