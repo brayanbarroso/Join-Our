@@ -25,7 +25,7 @@ header {
   /* border: 1px solid red; */
   display: flex;
   justify-content: center;
-  margin-block: 80px 8px;
+  margin-block: 80px 16px;
 }
 
 main {
@@ -37,7 +37,7 @@ main {
 
 .section-info {
   /* border: 1px solid red; */
-  margin-block-end: 88px;
+  margin-block-end: 80px;
   margin-inline: 16px;
 }
 
@@ -76,7 +76,6 @@ main {
 }
 
 .section-form input::placeholder {
-  color: var(--title);
   font-family: "Be Vietnam Pro", serif;
   font-size: 1rem;
   font-weight: 500;
